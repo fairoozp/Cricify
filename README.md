@@ -13,13 +13,13 @@ The Main aim is to convert your paper scorebook to digital scorebook.
 
 
 ### SignIn
-<img src="../main/Images/Screenshot_1583211450.png"  width="108" height="216" />  <img src="../master/Images/Screenshot_1583211461.png"  width="108" height="216" />
+<img src="../main/Images/Screenshot_1583211450.png"  width="108" height="216" />  <img src="../main/Images/Screenshot_1583211461.png"  width="108" height="216" />
 
 ### Home
 <img src="../main/Images/Screenshot_1583211474.png"  width="108" height="216" /> 
 
 ### MatchCode
-<img src="../main/Images/Screenshot_1583211498.png"  width="108" height="216" />  <img src="../master/Images/Screenshot_1583211506.png"  width="108" height="216" />  
+<img src="../main/Images/Screenshot_1583211498.png"  width="108" height="216" />  <img src="../main/Images/Screenshot_1583211506.png"  width="108" height="216" />  
 ### Create New Match
-<img src="../main/Images/Screenshot_1583212121.png"  width="108" height="216" />  <img src="../master/Images/Screenshot_1583212221.png"  width="108" height="216" /> <img src="../master/Images/Screenshot_1583212254.png"  width="108" height="216" />
+<img src="../main/Images/Screenshot_1583212121.png"  width="108" height="216" />  <img src="../main/Images/Screenshot_1583212221.png"  width="108" height="216" /> <img src="../main/Images/Screenshot_1583212254.png"  width="108" height="216" />
 
